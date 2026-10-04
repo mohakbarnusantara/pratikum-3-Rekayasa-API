@@ -1,0 +1,6 @@
+$kind: http-request
+name: http://localhost:3000/destinations/6
+description: ""
+url: http://localhost:3000/destinations/6
+method: DELETE
+order: 4503458565764876

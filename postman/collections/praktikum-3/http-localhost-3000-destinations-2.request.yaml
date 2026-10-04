@@ -1,0 +1,6 @@
+$kind: http-request
+name: http://localhost:3000/destinations/2
+description: ""
+url: http://localhost:3000/destinations/2
+method: GET
+order: 4079739531346134

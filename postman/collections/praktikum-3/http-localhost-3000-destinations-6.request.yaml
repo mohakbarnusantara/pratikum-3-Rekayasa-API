@@ -1,0 +1,9 @@
+$kind: http-request
+name: http://localhost:3000/destinations/6
+description: ""
+url: http://localhost:3000/destinations/6
+method: PUT
+body:
+  type: json
+  content: '{ "name": "Air Terjun Wera", "region": "Sigi", "category": "air terjun" }'
+order: 4502768330059168

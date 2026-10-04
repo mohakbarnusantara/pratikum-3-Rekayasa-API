@@ -1,0 +1,6 @@
+$kind: http-request
+name: http://localhost:3000/wisata
+description: ""
+url: http://localhost:3000/wisata
+method: GET
+order: 4503539701953792

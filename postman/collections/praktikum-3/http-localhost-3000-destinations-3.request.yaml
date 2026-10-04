@@ -1,0 +1,9 @@
+$kind: http-request
+name: http://localhost:3000/destinations
+description: ""
+url: http://localhost:3000/destinations
+method: POST
+body:
+  type: json
+  content: '{ "name": "Air Terjun Wera" }'
+order: 4487205884130754

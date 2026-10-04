@@ -1,0 +1,8 @@
+$kind: http-request
+name: http://localhost:3000/destinations
+description: ""
+url: http://localhost:3000/destinations?category=pantai
+method: GET
+queryParams:
+  category: pantai
+order: 3596361861120457

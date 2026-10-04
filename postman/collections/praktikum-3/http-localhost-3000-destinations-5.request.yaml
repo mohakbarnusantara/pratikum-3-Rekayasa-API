@@ -1,0 +1,9 @@
+$kind: http-request
+name: http://localhost:3000/destinations
+description: ""
+url: http://localhost:3000/destinations
+method: PATCH
+body:
+  type: json
+  content: ""
+order: 4503507646754058
