@@ -1,4 +1,8 @@
-console.log('Moh Akbar Nusntara || F5512520037');
+console.log('MOH AKBAR NUSANTARA        || F5512520037');
+console.log('CUT SAFIRA                 || F5512510022');
+console.log('ANDHIN ANGGRAINI BANTULU   || F5512510010');
+console.log('BAGUS ALDY PUTRA           || F5512510009');
+console.log('HUMAIRA ISLAMI RISYA ADAM  || F5512510006');
 const http = require('http');
 const fs = require('fs/promises');
 const path = require('path');
